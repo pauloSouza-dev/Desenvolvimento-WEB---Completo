@@ -1,0 +1,36 @@
+body{
+    background:grey url('img/fundo.png');
+    font: 16px Arial, helvetica, sans-serif;
+}
+a{
+    text-decoration: none;
+    color: #4b566a;
+    font-weight: bold;
+    padding: 5px;
+}
+h2{
+    color: rgb(109, 108, 108);
+}
+img{
+    border: 10px solid rgb(196, 188, 188);
+}
+
+/*formatações especificas */
+#principal{
+    width: 900px;
+}
+#menu-principal{
+    background-color: rgb(177, 160, 160);
+    padding: 18px;
+
+}
+#conteudo{
+    background: #e8e8d9;
+    padding: 10px;
+}
+
+/*classes de formatação */
+
+.centralizar{
+    text-align: center;
+}
